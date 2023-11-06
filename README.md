@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriano Lisboa
 
--💻 Estudante Front-End
+-💻 Estudante 
 
 <div>
   <a href="<div>
