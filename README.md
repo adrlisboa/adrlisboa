@@ -1,5 +1,5 @@
 Just learning everyday
 
-JAVA
-Spring Boot
-SQL
+- JAVA
+- Spring Boot
+- SQL
